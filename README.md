@@ -13,10 +13,10 @@ The extracted data is saved into a **CSV file** for easy access and analysis.
 
 ## Features
 
-✅ Automates **web scraping** using Selenium  
-✅ Handles **dynamic content loading** efficiently  
-✅ Extracts **promoter details** after switching tabs  
-✅ Saves data to **CSV file** for further use  
+Automates **web scraping** using Selenium  
+Handles **dynamic content loading** efficiently  
+Extracts **promoter details** after switching tabs  
+Saves data to **CSV file** for further use  
 
 ## Technologies Used
 
@@ -24,9 +24,13 @@ The extracted data is saved into a **CSV file** for easy access and analysis.
 - **Selenium WebDriver**  
 - **CSV module** (for saving extracted data)  
 
+## Experince
+
+I completed this project in 2 hours, during which I faced various challenges and fixes. The thing I found a little bit challenging was making dynamic data scraping. Even though, with the help of Copilot and ChatGPT, I completed the task within the allotted time.
+
 ## Installation & Setup
 
 1. **Clone the repository**:
    ```sh
-   git clone <repository_url>
-   cd Web_Scraping_RERA
+   git clone https://github.com/KrSHrIrAaM/Web-Scrapping
+   cd Web-Scraping
